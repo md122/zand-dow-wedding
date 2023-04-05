@@ -11,15 +11,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://zand-dow-wedding.date" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
+title      : welcome to our wedding
 email      : marco.dow@pm.me #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "We're getting married!"
 author     : marco dow
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
