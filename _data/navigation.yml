@@ -1,6 +1,6 @@
 - name: Our Story
   link: /#ourstory
-- name: Celebrations
+- name: Ceremony
   link: /celebrations
 - name: People
   link: /people
@@ -12,9 +12,9 @@
   link: /guide
 - name: Registry
   link: /registry
-- name: Photos
-  link: /photo-gallery
-- name: Livestream
-  link: /livestream
+# - name: Photos
+#   link: /photo-gallery
+# - name: Livestream
+#   link: /livestream
 - name: RSVP
   modal_id: rsvp-modal
