@@ -1,0 +1,8 @@
+spouse1: 
+  short_name: Marco
+  long_name: Marco Dow
+  role: Husband
+spouse2:
+  short_name: Nox
+  long_name: Nox Zand
+  role: Spouse2

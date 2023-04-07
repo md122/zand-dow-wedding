@@ -1,29 +1,20 @@
-#
-# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
-#
-# Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
-#
-# How to use:
-# {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
-
-# English (default)
-# -----------------
-en: &DEFAULT_EN
-  nav:
-    - title: "RSVP"
-      section: rsvp
-    - title: "Location"
-      section: location
-    - title: "FAQ"
-      section: faq
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
+- name: Our Story
+  link: /#ourstory
+- name: Celebrations
+  link: /celebrations
+- name: People
+  link: /people
+- name: Details
+  link: /details
+- name: FAQ
+  link: /faq
+- name: City Guide
+  link: /guide
+- name: Registry
+  link: /registry
+- name: Photos
+  link: /photo-gallery
+- name: Livestream
+  link: /livestream
+- name: RSVP
+  modal_id: rsvp-modal
