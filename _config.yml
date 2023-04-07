@@ -1,5 +1,5 @@
 # Site settings
-remote-theme: cnorick/jekyll-theme-easy-wedding
+theme: jekyll-theme-easy-wedding
 title: marco & nox
 email: marco.dow@pm.me
 url: https://zand-dow-wedding.date
