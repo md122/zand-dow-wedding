@@ -1,5 +1,5 @@
 ---
-hide: false
+hide: true
 ---
 
 This is a hidden banner
