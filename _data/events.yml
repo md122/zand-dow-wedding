@@ -1,9 +1,9 @@
 - name: Wedding Ceremony
   main_event: true
-  date: 2023-09-03 23:00:00 -06:00
-  endDate: 2023-09-04 03:00:00 -06:00
+  date: 2023-09-03 17:00:00 -06:00
+  endDate: 2023-09-03 18:00:00 -06:00
   attire: cocktail
-  description: Our wedding ceremony will be the perfect blend of our separate Catholic and Baptist traditions. Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. There will be a parking attendant on site to direct you, and the venue will also provide transportation to the ceremony site if needed. We ask that you please ensure that your cell phones are off and out of sight for the duration of the ceremony.
+  description: Our wedding ceremony will be the perfect blend of our separate Catholic and Baptist traditions. Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. We ask that you please ensure that your cell phones are silenced and out of sight for the duration of the ceremony.
   transportation:
   shuttle:
   location:
@@ -15,12 +15,11 @@
     coordinates: 44.955252400693496, -93.2886106208971
     google_maps_url: https://goo.gl/maps/d63eskuhTyVR5ajG9
     venue_name: Nord Social Hall
-  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick.
 
 - name: Reception
-  date_alt: Immediately following the ceremony
+  date_alt: 45-60 minutes following the ceremony
   attire: cocktail
-  description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Dinner and an open bar will be provided.
+  description: The wedding reception is at the same venue as the ceremony. Appetizers will be served while the space is converted from "wedding mode" to "party mode"
   location:
     address: 2610 Lyndale Ave S Minneapolis, MN 55408
     city: Minneapolis
