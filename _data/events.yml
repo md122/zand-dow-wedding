@@ -3,7 +3,7 @@
   date: 2023-09-03 17:00:00 -06:00
   endDate: 2023-09-03 18:00:00 -06:00
   attire: cocktail
-  description: Our wedding ceremony will be the perfect blend of our separate Catholic and Baptist traditions. Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. We ask that you please ensure that your cell phones are silenced and out of sight for the duration of the ceremony.
+  description: We will be having a Jewish wedding ceremony (see <a href="../details">"Details" page</a> for more information about Jewish weddings.)
   transportation:
   shuttle:
   location:
@@ -17,9 +17,9 @@
     venue_name: Nord Social Hall
 
 - name: Reception
-  date_alt: 45-60 minutes following the ceremony
+  date_alt: 45-60 minutes after the ceremony
   attire: cocktail
-  description: The wedding reception is at the same venue as the ceremony. Appetizers will be served while the space is converted from "wedding mode" to "party mode"
+  description: The wedding reception is at the same venue as the ceremony. Appetizers will be served while the space is converted from "wedding mode" to "party mode."
   location:
     address: 2610 Lyndale Ave S Minneapolis, MN 55408
     city: Minneapolis

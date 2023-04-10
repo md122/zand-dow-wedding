@@ -14,7 +14,7 @@ mobile_hero_position: center center
 theme:
  # text_color: '#096da0'
   primary_color: '#096da0'
-  secondary_color: '#c4a142'
-  #accent_color: '#afa63d'
+  accent_color: '#c4a142'
+  secondary_color: '#869b4c'
   background_color: '#fbfdf8'
   
