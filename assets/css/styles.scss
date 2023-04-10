@@ -80,3 +80,7 @@ $background-color-lighter: scale-color({{site.data.settings.theme.background_col
     --background-color: #{$background-color};
     --background-color-lighter: #{$background-color-lighter};
 }
+
+#rsvpform {
+  padding-top: 50px;
+}
