@@ -3,8 +3,6 @@
   link: /#rsvpform
 - name: Celebrations
   link: /celebrations
-# - name: People
-#   link: /people
 - name: Details
   link: /details
 - name: FAQ
@@ -15,5 +13,5 @@
 #   link: /registry
 # - name: Photos
 #   link: /photo-gallery
-# - name: Livestream
-#   link: /livestream
+- name: Livestream
+  link: /livestream
