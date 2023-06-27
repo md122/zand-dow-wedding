@@ -3,11 +3,11 @@
   date: 2023-09-03 17:00:00 -06:00
   endDate: 2023-09-03 18:00:00 -06:00
   attire: cocktail
-  description: We will be having a Jewish wedding ceremony (see <a href="../details">"Details"</a> for more information about Jewish weddings.)
+  description: We will be having a Jewish wedding ceremony (<a href="../details"> see here for more information about Jewish weddings.)</a>
   transportation:
   shuttle:
   location:
-    address: 2610 Lyndale Ave S Minneapolis, MN 55408
+    address: 2610 Lyndale Ave S
     city: Minneapolis
     state: MN
     long_state: Minnesota
@@ -21,7 +21,7 @@
   attire: cocktail
   description: The wedding reception is at the same venue as the ceremony. Appetizers will be served while the space is converted from "wedding mode" to "party mode."
   location:
-    address: 2610 Lyndale Ave S Minneapolis, MN 55408
+    address: 2610 Lyndale Ave S
     city: Minneapolis
     state: MN
     long_state: Minnesota
