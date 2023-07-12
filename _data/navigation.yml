@@ -7,11 +7,7 @@
   link: /details
 - name: FAQ
   link: /faq
-# - name: City Guide
-#   link: /guide
-# - name: Registry
-#   link: /registry
 # - name: Photos
 #   link: /photo-gallery
 - name: Livestream
-  link: /livestream
+  external_link: https://loveca.st/0923-ED4YKMQ
