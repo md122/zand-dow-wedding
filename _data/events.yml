@@ -1,7 +1,7 @@
 - name: Welcome Party
   main_event: false
-  date: 2023-09-03 18:00:00 -06:00
-  endDate: 2023-09-03 22:00:00 -06:00
+  date: 2023-09-02 18:00:00 -06:00
+  endDate: 2023-09-02 22:00:00 -06:00
   attire: any
   description: Stop by our backyard for a welcome party/barbecue for all wedding guests from out of town and anyone local who wants to come by! We will have a hard end time at 10 PM so we can all get enough rest before the wedding. 
   location:
