@@ -1,10 +1,4 @@
-- name: Celebrations
-  link: /celebrations
-- name: Details
-  link: /details
-- name: FAQ
-  link: /faq
-# - name: Photos
-#   link: /photo-gallery
-- name: Livestream
-  external_link: https://loveca.st/zanddow
+- name: Recording
+  link: /recording
+- name: Photos
+  link: /photo-gallery

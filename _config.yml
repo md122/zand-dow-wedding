@@ -3,7 +3,7 @@ theme: jekyll-theme-easy-wedding
 title: marco & nox
 email: marco.dow@pm.me
 url: https://zand-dow-wedding.date
-description: "we're getting married!"
+description: "we got married!"
 baseurl: ""
 
 collections:
@@ -11,8 +11,8 @@ collections:
     sort_by: order
   banners:
 
-sass:
-  style: compressed
+# sass:
+#   style: compressed
 
 defaults:
   - scope:
