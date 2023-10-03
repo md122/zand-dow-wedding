@@ -1,4 +1,4 @@
-- name: Recording
-  link: /recording
+# - name: Recording
+#   link: /recording
 - name: Photos
   link: /photo-gallery

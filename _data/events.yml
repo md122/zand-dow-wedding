@@ -4,14 +4,6 @@
   endDate: 2023-09-02 22:00:00 -06:00
   attire: any
   description: Stop by our backyard for a welcome party/barbecue for all wedding guests from out of town and anyone local who wants to come by! We will have a hard end time at 10 PM so we can all get enough rest before the wedding. 
-  location:
-    address: 2633 Pillsbury Ave S
-    city: Minneapolis
-    state: MN
-    long_state: Minnesota
-    zip: 55408
-    coordinates: 44.954592731317476, -93.28097396202
-    google_maps_url: https://goo.gl/maps/gr8t6eCWRy3BPRvm9
 
 - name: Wedding Ceremony
   main_event: true
