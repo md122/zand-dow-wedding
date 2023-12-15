@@ -1,4 +1,4 @@
-# - name: Recording
-#   link: /recording
+- name: Livestream
+  link: /livestream
 - name: Photos
   link: /photo-gallery
